@@ -1,2 +1,5 @@
 # LeetCode_Blind75
-python solution for Blind 75
+Python solution for Blind 75
+
+## Sequence
+* Two Sum (Easy)
