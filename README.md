@@ -5,3 +5,4 @@ Python solution for Blind 75
 * Two Sum (Easy)
 * Contains Duplicate (Easy)
 * Product of Array Except Self (Medium)
+* 3Sum (Medium)
