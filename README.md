@@ -7,6 +7,7 @@ Python solution for Blind 75 (6/75)
 * Product of Array Except Self (Medium)
 * 3Sum (Medium)
 * Group Anagrams (Medium)
+* Merge Intervals (Medium)
 
 ## Binary Search
 * Search in Rotated Sorted Array (Meduium)
