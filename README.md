@@ -9,5 +9,8 @@ Python solution for Blind 75 (6/75)
 * Group Anagrams (Medium)
 * Merge Intervals (Medium)
 
+## Interval Sum Product
+* Maximum Product Subarray (Medium)
+
 ## Binary Search
-* Search in Rotated Sorted Array (Meduium)
+* Search in Rotated Sorted Array (Medium)
