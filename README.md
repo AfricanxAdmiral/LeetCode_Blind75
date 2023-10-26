@@ -1,5 +1,5 @@
 # LeetCode_Blind75
-Python solution for Blind 75 (6/75)
+Python solution for Blind 75 (8/75)
 
 ## Sequence
 * Two Sum (Easy)
