@@ -17,3 +17,4 @@ Python solution for Blind 75 (8/75)
 
 ## Linked List
 * Linked List Cycle (Easy)
+* Reverse Linked List (Easy)
