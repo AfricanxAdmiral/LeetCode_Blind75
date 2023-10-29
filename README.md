@@ -1,5 +1,5 @@
 # LeetCode_Blind75
-Python solution for Blind 75 (11/75)
+Python solution for Blind 75 (12/75)
 
 ## Sequence
 * Two Sum (Easy)
@@ -14,6 +14,7 @@ Python solution for Blind 75 (11/75)
 * Container With Most Water (Medium)
 
 ## Binary Search
+* Find Minimum in Rotated Sorted Array (Medium)
 * Search in Rotated Sorted Array (Medium)
 
 ## Linked List
