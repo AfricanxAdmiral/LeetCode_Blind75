@@ -14,3 +14,6 @@ Python solution for Blind 75 (8/75)
 
 ## Binary Search
 * Search in Rotated Sorted Array (Medium)
+
+## Linked List
+* Linked List Cycle (Easy)
