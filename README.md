@@ -1,5 +1,5 @@
 # LeetCode_Blind75
-Python solution for Blind 75 (12/75)
+Python solution for Blind 75 (13/75)
 
 ## Sequence
 * Two Sum (Easy)
@@ -8,6 +8,7 @@ Python solution for Blind 75 (12/75)
 * 3Sum (Medium)
 * Group Anagrams (Medium)
 * Merge Intervals (Medium)
+* Longest Substring Without Repeating Characters (Medium)
 
 ## Interval Sum Product
 * Maximum Product Subarray (Medium)
